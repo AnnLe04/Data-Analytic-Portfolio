@@ -30,6 +30,7 @@ Here’s a selection of my key projects, showcasing a diverse range of analytica
 
 ### Python
 - ## Streaming Service Churn Prediction
+  Code: ([Streaming Service Churn Prediction](https://github.com/AnnLe04/Projects))
   Logistic regression and Gradient Boosting models to predict customer churn. Tools: Python (pandas, scikit-learn, seaborn), Jupyter notebook.  
 - ## Wage Prediction with LFS
   Regression modelling and diagnostic analysis
