@@ -30,13 +30,15 @@ Here’s a selection of my key projects, showcasing a diverse range of analytica
 
 ### Python
 - ## Streaming Service Churn Prediction
-  Code: ([Streaming Service Churn Prediction](https://github.com/AnnLe04/Projects/blob/main/BU425_project%20(1)%20(1).ipynb)
+  Code: [Streaming Service Churn Prediction](https://github.com/AnnLe04/Projects/blob/main/BU425_project%20(1)%20(1).ipynb)
   Logistic regression and Gradient Boosting models to predict customer churn. Tools: Python (pandas, scikit-learn, seaborn), Jupyter notebook.  
-- ## Wage Prediction with LFS
+- ## Wage Prediction with LFS (Labour Force Survey)
+  Code: [Wage Prediction with LFS](https://github.com/AnnLe04/Projects/blob/main/EC_comp.ipynb)
   Regression modelling and diagnostic analysis
 
 ### R
 - ## Analyzing Factors Influencing Individual Wage
+  Code: [Analyzing Factors Influencing Individual Wage](https://github.com/AnnLe04/Projects/blob/main/Project.Rmd)
   Multiple Linear Regression and Logistic Regression to analyze factors affecting the wage of an individual
   
 
@@ -50,14 +52,14 @@ Here’s a selection of my key projects, showcasing a diverse range of analytica
 ## Education
 
 **WilFrid Laurier University**  
-Bachelor of Economics & Data Analytics (expected graduation: 2026)
+Honours Bachelor of Economics & Data Analytics (expected graduation: 2026)
 
 ---
 
 ## Certificates
 
 - *Google Data Analytics Professional Certificate* (Coursera, YYYY-MM)  
-- *(Add others like Tableau, Python, etc., with provider and date)*
+
 
 ---
 
