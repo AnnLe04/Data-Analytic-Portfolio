@@ -12,6 +12,7 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
 
 - [Portfolio Projects](#portfolio-projects)
   - Python
+    - [Streaming Service Churn Prediction](#Streaming-Service-Churn-Prediction)
   - R
   - SQL
   - Tableau / Power BI
@@ -26,7 +27,7 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
 Here’s a selection of my key projects, showcasing diverse analytical tools and skills.
 
 ### Python
-- **Streaming Service Churn Prediction**  
+- ##Streaming Service Churn Prediction##
   Logistic regression model to predict customer churn. Tools: Python (pandas, scikit-learn, seaborn), Jupyter notebook.  
 - **BikeShare Churn Analysis**  
   Explored churn patterns, compared regression models. Tools: Python, visualization.
