@@ -13,7 +13,9 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Streaming Service Churn Prediction](#Streaming-Service-Churn-Prediction)
+    - [Wage Prediction with LFS](#Wage-Prediction-with-LFS)
   - R
+    - [Analyzing Factors Influencing Individual Wage](#Analyzing-Factors-Influencing-Individual-Wage)
   - SQL
   - Tableau / Power BI
 - [Education](#education)
@@ -24,27 +26,23 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
 
 ## Portfolio Projects
 
-Here’s a selection of my key projects, showcasing diverse analytical tools and skills.
+Here’s a selection of my key projects, showcasing a diverse range of analytical tools and skills.
 
 ### Python
 - ## Streaming Service Churn Prediction
-  Logistic regression model to predict customer churn. Tools: Python (pandas, scikit-learn, seaborn), Jupyter notebook.  
-- **BikeShare Churn Analysis**  
-  Explored churn patterns, compared regression models. Tools: Python, visualization.
+  Logistic regression and Gradient Boosting models to predict customer churn. Tools: Python (pandas, scikit-learn, seaborn), Jupyter notebook.  
+- ## Wage Prediction with LFS
+  Regression modelling and diagnostic analysis
 
 ### R
-- **Wage Prediction with LFS**  
-  Regression modeling and diagnostic analysis using R (tidyverse).  
-- *(Add another R project if available)*
+- ## Analyzing Factors Influencing Individual Wage
+  Multiple Linear Regression and Logistic Regression to analyze factors affecting the wage of an individual
+  
 
 ### SQL
-- **CS338 Database Project**  
-  Designed and queried a normalized relational database using SQL.  
-- **(Optional) Another SQL project**  
 
 ### Tableau / Power BI
-- **(Project Name)** – Interactive dashboard created in Tableau to visualize [context].  
-- **(Project Name)** – Power BI analysis of [context].
+
 
 ---
 
