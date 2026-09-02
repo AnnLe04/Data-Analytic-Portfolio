@@ -18,6 +18,7 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
     - [Analyzing Factors Influencing Individual Wage](#Analyzing-Factors-Influencing-Individual-Wage)
   - SQL
   - Tableau / Power BI
+    - [Home Credit Loan Application Risk Dashboard](#Home-Credit-Loan-Application-Risk-Dashboard)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
