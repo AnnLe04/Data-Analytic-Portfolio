@@ -18,7 +18,7 @@ In my free time, I enjoy learning new analytics techniques, exploring open data,
     - [Analyzing Factors Influencing Individual Wage](#Analyzing-Factors-Influencing-Individual-Wage)
   - SQL
   - Tableau / Power BI
-    - [Home Credit Loan Application Risk Dashboard](#Home-Credit-Loan-Application-Risk-Dashboard)
+    - Home Credit Loan Application Risk Dashboard Code & full write-up: [Home Credit Loan Application Risk Dashboard](PASTE-YOUR-URL-HERE) 4-page interactive dashboard analyzing default risk across 308K consumer loan applications ($184B portfolio) for a non-prime lender, mirroring the alternative lending space. Identified occupation and education as the strongest risk signals through segment analysis and a cross-tab deep dive, validated against sample-size reliability. Tools: Power BI, Power Query, DAX.
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
